@@ -1,6 +1,6 @@
 # sic-proyectos-grupo-13
 
-## 1) Planteamiento (
+## 1) Planteamiento 
 En Fórmula 1 existen numerosos datos (pilotos, equipos, circuitos, clima, *pit-stops*, etc.) dispersos en múltiples fuentes. 
 Para un aficionado o comunicador deportivo es costoso integrar todo y comparar quién llega mejor a cada carrera. 
 F1nal Gambler propone una plataforma que unifica datos históricos y recientes y los presenta como información clara y útil para decidir antes y durante cada GP.
