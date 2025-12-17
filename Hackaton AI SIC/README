@@ -98,19 +98,6 @@ http://localhost:8501
 - 💸 Pérdida económica anual estimada
 - 🚦 Nivel de riesgo visual
 - 💡 Recomendaciones estratégicas
-- 💬 Chat explicativo del riesgo
-
----
-
-## 🤖 Chat explicativo inteligente
-
-La aplicación incluye un **chatbox** que permite:
-- Preguntar por qué un cliente tiene cierto nivel de riesgo
-- Obtener explicaciones en lenguaje natural
-- Justificar decisiones ante equipos directivos
-
-Ejemplo:
-> *"Este cliente tiene riesgo alto debido a contrato mensual y cargos elevados"*
 
 ---
 
@@ -133,22 +120,21 @@ Ejemplo de estructura:
 📁 screenshots
 │
 ├── formulario_cliente.png
-├── resultado_riesgo_alto.png
+├── resultado_riesgo.png
 ├── impacto_economico.png
-├── chat_explicativo.png
 ```
 
 Y luego insertarlas así:
 
 ```markdown
 ![Formulario de datos](screenshots/formulario_cliente.png)
-![Resultado de riesgo](screenshots/resultado_riesgo_alto.png)
-![Chat explicativo](screenshots/chat_explicativo.png)
+![Resultado de riesgo](screenshots/resultado_riesgo.png)
+![Chat explicativo](screenshots/impacto_economico.png)
 ```
 
 ---
 
-## 🌟 Valor agregado para los jueces
+## 🌟 Valor agregado
 
 ✔ Enfoque empresarial claro
 ✔ Impacto económico cuantificado
@@ -162,15 +148,16 @@ Este proyecto no solo predice, **ayuda a decidir**.
 
 ## 👤 Autor
 
-Proyecto desarrollado por **[Tu Nombre]**  
-Carrera: Ingeniería Industrial  
+Proyecto desarrollado por:
+**[Dario Alejandro Tul Teo]** 
+**[José Javier Bonilla Salazar]**
+**[Josué Daniel Fuentes Díaz]**
+**[Sergio Andrés Larios Fajardo]**
+**[Yeshua David Inay Ramos]**
 Hackathon AI SIC
 
 ---
 
-## 📌 Nota final
-
 > *"Aquí la empresa decide antes de perder ingresos."* 💡
 
-Gracias por evaluar este proyecto 🙌
 
