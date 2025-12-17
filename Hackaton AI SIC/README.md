@@ -113,12 +113,12 @@ http://localhost:8501
 ## 🖼️ Capturas de funcionalidad
 
 ### 📋 Formulario de ingreso de datos
-![Formulario de datos del cliente](screenshots/formulario.png)
+![Formulario de datos del cliente](screenshots/formulario_cliente.png)
 
 ### 📊 Resultado del análisis y riesgo
-![Resultado de riesgo](screenshots/resultado.png)
+![Resultado de riesgo](screenshots/resultado_riesgo.png)
 
-### 💬 Chat explicativo inteligente
+### 💬 Impacto Economico
 ![Impacto Economico](screenshots/impacto_economico.png)
 
 ```
