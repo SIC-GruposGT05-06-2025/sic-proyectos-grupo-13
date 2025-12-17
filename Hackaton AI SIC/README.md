@@ -121,15 +121,6 @@ http://localhost:8501
 ### 💬 Impacto Economico
 ![Impacto Economico](screenshots/impacto_economico.png)
 
-```
-
-Y luego insertarlas así:
-
-```markdown
-![Formulario de datos](screenshots/formulario_cliente.png)
-![Resultado de riesgo](screenshots/resultado_riesgo.png)
-![Chat explicativo](screenshots/impacto_economico.png)
-```
 
 ---
 
