@@ -110,18 +110,17 @@ http://localhost:8501
 
 ---
 
-## 🖼️ Capturas de funcionamiento
+## 🖼️ Capturas de funcionalidad
 
-> 📌 **Aquí puedes agregar imágenes del proyecto en acción**
+### 📋 Formulario de ingreso de datos
+![Formulario de datos del cliente](screenshots/formulario.png)
 
-Ejemplo de estructura:
+### 📊 Resultado del análisis y riesgo
+![Resultado de riesgo](screenshots/resultado.png)
 
-```
-📁 screenshots
-│
-├── formulario_cliente.png
-├── resultado_riesgo.png
-├── impacto_economico.png
+### 💬 Chat explicativo inteligente
+![Impacto Economico](screenshots/impacto_economico.png)
+
 ```
 
 Y luego insertarlas así:
